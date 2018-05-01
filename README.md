@@ -28,12 +28,20 @@ Estimative budget
 	-
 Proposed partners
 
-	-
+	Eridan Sarygulov
 Git repository link
 	https://github.com/kamiajo/drug-store
 Contact person
 
-Name      : Akzholtoi
+	Name      : Akzholtoi
 Surname : Kanimetova
 email       : akzholtoi.kanimetova@iaau.edu.kg
 mobile    : +996 772 188 635
+
+Software Features List  :
+1.	Registration
+2.	Log in
+3.	User page: add/delete a medicine to cart and order it with delivery
+4.	Admin page: add/delete the medicines, access to the list of clients ordered drugs
+5.	Search functionality
+
